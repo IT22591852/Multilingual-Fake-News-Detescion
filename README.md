@@ -40,7 +40,7 @@ Python | NLP | Scikit-learn | Pandas | NumPy | Machine Learning | Flask (optiona
 ---
 
 ## 📷 Screenshots
-(Add UI or results screenshots here)
+
 
 ---
 
