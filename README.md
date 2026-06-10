@@ -221,7 +221,7 @@ Once running, you can access the services at:
 {
   "language": "tamil",
   "final_prediction": "Real",
-  "final_confidence": 0.89,
+  "final_confidence": 0.88,
   "classifier": {
     "prediction": "Real",
     "confidence": 0.89
